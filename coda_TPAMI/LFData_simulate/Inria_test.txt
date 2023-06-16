@@ -1,0 +1,15 @@
+Antiques_dense
+Camera_brush_dense
+Chess_dense
+Coffee_time_dense
+Flowers_clock_dense
+Lonely_man_dense
+Microphone_rooster_dense
+Pinenuts_blue_dense
+Rooster_clock_dense
+Roses_bed_dense
+Roses_table_dense
+Toy_friends_dense
+Toys_dense
+Two_vases_dense
+White_roses_dense
